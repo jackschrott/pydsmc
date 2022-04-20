@@ -1,1 +1,1 @@
-make sure you are using the fluid conda environment to run any code in this directory as the pymesh package and all dependencies are only installed in this environment
+make sure you are using the fluid2 conda environment to run any code in this directory as the pyvista package and all dependencies are only installed in this environment. Moving from pymesh to pyvista since there is a bit more functionality and better upkeep of code
